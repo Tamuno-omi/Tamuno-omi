@@ -1,4 +1,4 @@
-- 👋 ##Hello/ Bonjour/ Hola/ Toroo,
+- 👋 ## Hello/ Bonjour/ Hola/ Toroo,
 - ## I’m Tamuno-omi Jaja
 - Based in 🇳🇬: 
 - 🌱 I’m currently studying for a Master's degree in Computer Science ...
